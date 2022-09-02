@@ -1,1 +1,1 @@
-# canvas-boilerplate
+# js-collision-detection
